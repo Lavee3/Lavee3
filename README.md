@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML and DSA Java<br>👯 I’m looking to collaborate on ML projects <br>🤝 I’m looking for help with ML<br
+🔭 I’m currently working on AI/ML and DSA Java<br>👯 I’m looking to collaborate on ML projects <br>🤝 I’m looking for help with ML<br>
 
 
 # 💻 Tech Stack:
