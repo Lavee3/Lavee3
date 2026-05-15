@@ -6,40 +6,9 @@
 </div>
 
 <!-- ═══════════════════════════════════════ ABOUT ═══════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="54%" valign="top">
-
-```python
-# about.py
-
-class Laveena:
-
-    role      = "Data & ML Engineer"
-    currently = "Intrested in building Creative Tech."
-    open_to   = "Collabs & interesting problems"
-```
-
-</td>
-<td width="46%" valign="top">
-
-```
-┌─[lavee3@github ~]
-│
-├─   Researching LLMs & Transformers  
-├─   Learning Gen Ai 
-└─   Linux native · always in terminal
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
+<div align="center">
+  <img src="about.svg" width="800" alt="About Laveena"/>
+</div>
 <!-- ═══════════════════════════════════ FEATURED PROJECT ══════════════════════════════ -->
 
 ### `> featured`
