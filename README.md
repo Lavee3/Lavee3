@@ -1,15 +1,143 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML and DSA Java<br>👯 I’m looking to collaborate on ML projects <br>🤝 I’m looking for help with ML<br>
+<div align="center">
 
+<!-- HEADER BANNER SVG -->
+<div align="center">
+  <img src="header.svg" alt="Laveena Header" width="800"/>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lavee3&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lavee3&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavee3&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ═══════════════════════════════════════ ABOUT ═══════════════════════════════════════ -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<table>
+<tr>
+<td width="54%" valign="top">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+# about.py
+
+class Laveena:
+
+    role      = "Data & ML Engineer"
+    currently = "Intrested in building Creative Tech."
+    open_to   = "Collabs & interesting problems"
+```
+
+</td>
+<td width="46%" valign="top">
+
+```
+┌─[lavee3@github ~]
+│
+├─   Researching LLMs & Transformers  
+├─   Learning Gen Ai 
+└─   Linux native · always in terminal
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════ FEATURED PROJECT ══════════════════════════════ -->
+
+### `> featured`
+
+<br>
+
+<table>
+<tr>
+<td>
+
+**`📌 Semantic-resume-matcher`**
+
+>Developed an end-to-end Retrieval-Augmented Generation (RAG) style pipeline that converts resumes into vector embeddings and performs semantic similarity search using a vector database. The system identifies contextually relevant candidates even when exact keywords differ, improving fairness and accuracy in recruitment workflows.
+>
+**Highlights**
+- Sentence-transformer embeddings for deep semantic understanding
+- Cosine similarity scoring with explainability layer
+- FastAPI REST backend — drop-in ready
+- Clean CLI for batch processing
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=79a7c5)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=a8c8dc)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=5b8fa8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=79a7c5)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a8c8dc)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════ STACK ════════════════════════════════════ -->
+
+### `> stack`
+
+<br>
+
+<div align="center">
+
+**`[ ML · Data ]`**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=79a7c5)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=a8c8dc)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=79a7c5)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=5b8fa8)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=a8c8dc)
+
+<br>
+
+**`[ Data Wrangling ]`**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=79a7c5)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a8c8dc)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=5b8fa8)
+
+<br>
+
+**`[ MLOps · Infra ]`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=79a7c5)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a8c8dc)
+![MLflow](https://img.shields.io/badge/Experiment_Tracking-0d1117?style=for-the-badge&logo=mlflow&logoColor=5b8fa8)
+
+<br>
+
+**`[ Environment ]`**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=79a7c5)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a8c8dc)
+
+</div>
+
+<br>
+
+---
+<!-- ══════════════════════════════════════ STATS ══════════════════════════════════════ -->
+
+### `> github --streak`
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavee3&theme=dark&background=0d1117&ring=79a7c5&fire=5b8fa8&currStreakLabel=79a7c5&sideLabels=4a7a9b&dates=2e5a72&currStreakNum=a8c8dc&sideNums=79a7c5&border=1e3448" alt="GitHub Streak Stats" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<br>
+<sub><code> actively building &nbsp;·&nbsp; open to collaborations &nbsp;·&nbsp; always learning</code></sub>
+<br><br>
+</div>
